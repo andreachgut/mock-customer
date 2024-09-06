@@ -1,0 +1,67 @@
+{
+  "customers": [
+    {
+      "identityDocument": 987654322,
+      "documentType": "PASSPORT",
+      "fullName": "John Doe",
+      "dateOfBirth": "1990-01-01",
+      "id": 1
+    },
+    {
+      "identityDocument": 123444789,
+      "documentType": "PASSPORT",
+      "fullName": "Jhon Doe",
+      "dateOfBirth": "1988-06-25",
+      "id": 2
+    },
+    {
+      "identityDocument": 123456789,
+      "documentType": "PASSPORT",
+      "fullName": "Amelia Doe",
+      "dateOfBirth": "1988-06-25",
+      "id": 3
+    },
+    {
+      "identityDocument": 123456789,
+      "documentType": "PASSPORT",
+      "fullName": "Amelia Doe",
+      "dateOfBirth": "1988-06-25",
+      "id": 5
+    },
+    {
+      "identityDocument": 123456789,
+      "documentType": "PASSPORT",
+      "fullName": "Amelia Doe",
+      "dateOfBirth": "1988-06-25",
+      "id": 6
+    },
+    {
+      "identityDocument": 123456789,
+      "documentType": "PASSPORT",
+      "fullName": "Amelia Doe",
+      "dateOfBirth": "1988-06-25",
+      "id": 7
+    },
+    {
+      "identityDocument": 123456789,
+      "documentType": "PASSPORT",
+      "fullName": "Amelia Doe",
+      "dateOfBirth": "1988-06-25",
+      "id": 8
+    },
+    {
+      "identityDocument": 99999,
+      "documentType": "PASSPORT",
+      "fullName": "Jhon Doe",
+      "dateOfBirth": "1988-06-25",
+      "id": 9
+    },
+    {
+      "identityDocument": 987654321,
+      "documentType": "PASSPORT",
+      "fullName": "Amelia Doe",
+      "dateOfBirth": "1988-06-25",
+      "id": 10
+    }
+  ]
+}
